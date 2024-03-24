@@ -3,20 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dn3305&label=Profile%20views&color=0e75b6&style=flat" alt="dn3305" /> </p>
 
-- 🔭 I’m currently working on **BPPL**
-
-- 🌱 I’m currently learning **ReactJS, NextJS, React Native**
-
-- 👯 I’m looking to collaborate on **Netflix CLone**
+-I am a Computer Science student at SRMIST, Kattankulathur, Chennai, Tamil Nadu, expected to graduate in July 2025.
+-I am also a Full Stack Developer at BHARAT PETCHEM PVT. LTD.
+-and a UI/UX Designer at The DyV, where I apply my skills and knowledge in web development and web design to create engaging and user-friendly websites and applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dn3305, https://dn3305.gthub.io/]
 
-- 💬 Ask me about **Front end**
-
 - 📫 How to reach me **rajadanish31@gmail.com, DN3305@srmist.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11ocDmSLPpY5j54F28juMnAvdxptP-w4i/view?usp=drive_link](https://drive.google.com/file/d/11ocDmSLPpY5j54F28juMnAvdxptP-w4i/view?usp=drive_link)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/11ocDmSLPpY5j54F28juMnAvdxptP-w4i/view?usp=drive_link]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dan8366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan8366" height="30" width="40" /></a>
