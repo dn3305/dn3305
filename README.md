@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Danish</h1>
+<h3 align="center">Data Engineer @bluecopa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dn3305&label=Profile%20views&color=0e75b6&style=flat" alt="dn3305" /> </p>
-
--I am a Computer Science student at SRMIST, Kattankulathur, Chennai, Tamil Nadu, expected to graduate in July 2025.
-
--I am also a Full Stack Developer at BHARAT PETCHEM PVT. LTD.
-
--and a UI/UX Designer at The DyV, where I apply my skills and knowledge in web development and web design to create engaging and user-friendly websites and applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dn3305, https://dn3305.gthub.io/]
 
